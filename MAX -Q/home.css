@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+    height: 40px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-decoration-style: none;
+    color: antiquewhite;
+    margin-left: 40px;
+    display: inline;
+}
